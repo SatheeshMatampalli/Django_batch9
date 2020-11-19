@@ -1,0 +1,34 @@
+Project Creation:
+================
+- In Particular folder : open CMD: django-admin startproject DemoProject(Project Name)
+- cd DemoProject 
+- RUN SERVER : python manage.py runserver portno 
+
+- Project Folder:
+	- __init__ : Consider a Python File(Package)
+	- settings.py : All App info and DataBases
+	- urls.py : All URLs using browser related
+	- wgsi : webserver gateway interface
+
+
+
+
+
+
+App creation in project:
+=======================
+- create new app in project
+- move into DemoProject
+
+- python manage.py startapp appname
+
+migrate: All database connections handling
+admin.py: Give Permission to admin to our data bases) TablesData
+model.py : we will write DBConnections.
+views.py : it like controller the all navigation
+
+
+Task :New Function 
+
+Hello "GoodMorning" my name is "Prasanna" and Rollno is "1429"
+
