@@ -24,4 +24,4 @@
 
 # Day2[ video Link](https://transcripts.gotomeeting.com/#/s/34e7f5e0b98b29357258cef35deaee7a8a5ae5f42db340009360fe48cf34505a)
 
-# Day3[Video_Link]()
+# Day3[Video_Link](https://transcripts.gotomeeting.com/#/s/6832495eb3ec89f2de8cbcf0a27e4c36b0ef74d7936722936bdae7540fea6d04)
