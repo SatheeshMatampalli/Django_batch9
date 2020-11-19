@@ -1,0 +1,74 @@
+Today Agenda:
+=============
+- Inheritance
+	-Multiple Inheritance
+- Polymorphsim
+- Overriding
+- Modules
+- Packages
+
+Inheritances:
+============
+- Aquring propertises and objects of one class to another class (parent Class to child Class
+
+Polymorphsim:
+============
+- Same methods with different functionalities 
+- the ability to take more than one forms
+
+Module:
+======
+- Module is a collection of functions.
+- Types of modules
+	- User defined
+	- Inbuilt Modules
+User Defined:
+- Save the file Filename.py(raj.py)
+How to Acess the module:
+import raj
+modulename.functionName
+
+Task:
+import random
+random.randint(1,7)
+User Gives to 3 Chances
+
+range(1,7)
+
+userchances   Guess   SystemGenerated 
+1                6        5
+2                3        1
+3                5        6
+
+Print("Better luck Next time")
+
+
+userchances   Guess   SystemGenerated 
+1                7        6 
+2                3        6
+3                1         1
+ -- # loop the brak
+
+-----> Sucess 
+print("congrats")
+3                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

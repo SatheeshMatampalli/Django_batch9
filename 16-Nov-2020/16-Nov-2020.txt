@@ -1,0 +1,76 @@
+Python Installation 3.6.8
+
+www.python.org
+
+download .exe File
+
+Today Agenda:
+============
+Python OOPS Concepts
+- Class
+- Object
+- Constructor
+- Inheritance
+
+
+Class:
+=====
+class is collection of variables and methods
+
+Function:
+========
+collection of statements.Code reusablity
+
+Method:
+======
+function inside class
+
+Syntax of Class:
+===============
+class class_name(Apssdc):
+	var
+	methods
+
+Object:
+======
+- Instance of class
+- Blue Print of class
+- object = className
+
+
+oop vs pop
+==========
+OOP:
+===
+- Program is divided into objects
+- Its support Inheritance
+- More Secure
+- Acess Modifiers : private and public,protected
+
+POP:
+===
+- POP Divided in to functions
+- not support inhertitance
+- Doesn't any acess Modifiers
+
+What is Constructor?
+- initiaing the properties during object creation itself
+- It is a special method that is used to initialize objects(__init__)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
