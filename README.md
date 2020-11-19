@@ -8,9 +8,13 @@
 - OOP vs POP
 - Constructor
 
-
-
-
+### Day2
+- Inheritance 
+  - Multiple Inheritance
+- Polymorphsim
+- Overriding
+- Modules
+- Packages
 
 ### Day3
   - Django introduction
