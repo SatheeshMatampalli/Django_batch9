@@ -8,6 +8,10 @@
 - OOP vs POP
 - Constructor
 
+# Day1[ video Link](https://transcripts.gotomeeting.com/#/s/5c80c37b7941ac79ca41f5687ec5cac554bf274a07df388ee694b03d29913959)
+
+
+____
 ### Day2
 - Inheritance 
   - Multiple Inheritance
@@ -16,26 +20,35 @@
 - Modules
 - Packages
 
+# Day2[ video Link](https://transcripts.gotomeeting.com/#/s/34e7f5e0b98b29357258cef35deaee7a8a5ae5f42db340009360fe48cf34505a)
+
+____
 ### Day3
   - Django introduction
   - Features
   - Django installation
-  
+ # Day3[Video_Link](https://transcripts.gotomeeting.com/#/s/6832495eb3ec89f2de8cbcf0a27e4c36b0ef74d7936722936bdae7540fea6d04)
+
+ _____
+ 
  ### Day4
  - Project creation
     - Sample Project
     - Urls,Settings
  - App Creation
   - Views
- 
- 
-
-
-
-# Day1[ video Link](https://transcripts.gotomeeting.com/#/s/5c80c37b7941ac79ca41f5687ec5cac554bf274a07df388ee694b03d29913959)
-
-
-# Day2[ video Link](https://transcripts.gotomeeting.com/#/s/34e7f5e0b98b29357258cef35deaee7a8a5ae5f42db340009360fe48cf34505a)
-
-# Day3[Video_Link](https://transcripts.gotomeeting.com/#/s/6832495eb3ec89f2de8cbcf0a27e4c36b0ef74d7936722936bdae7540fea6d04)
 # Day 4[Video Link](https://transcripts.gotomeeting.com/#/s/bb37d1c8328cd81e0d8e503784e01da42c66f315b410ec926bb43a8ec131fb62)
+
+_____
+### Day5
+- Django Templates
+- Introduction to HTML
+  - Lists
+  - Tables
+- Html Forms
+ _____
+# Day 5[Video Link]
+
+
+
+
