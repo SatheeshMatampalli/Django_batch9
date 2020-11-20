@@ -1,0 +1,17 @@
+Today Objectives:
+-----------------
+1.Django Templates
+
+-> we need to create one templates folder inside our app
+-> To Store all .html files
+-> Inside templates folder again create one folder with the name of our AppName
+-> For accessing the .html files we have to use render function
+	
+	render(request,'html filename',{})
+
+2.Introduction to HTML tags
+-> Lists
+-> Table
+
+3.HTML Forms
+
