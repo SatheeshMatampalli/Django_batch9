@@ -1,0 +1,29 @@
+Today Agenda:
+============
+- Django templates(HTML)
+- Introduction to HTML,CSS,Js
+- Basic Tags
+	- List
+	- Table
+	- Forms
+- Static Files(CSS,JS,Images)
+
+DTL: Django Template Language
+===
+Django template engine offers a mini language to define the user facing layer of the application
+
+Display purpose using syntax like :
+
+{{ variable name }}
+
+
+ex:  A = "Prasanna Raj Mallipudi"
+
+
+{{ A }}
+
+{% static Files %}
+
+
+
+
