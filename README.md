@@ -51,4 +51,15 @@ _____
 
 
 
+## Day6
+- Introduction to HTML,css,js
+  - img
+- DTLanguage
+- APPs Creation
+
+ _____
+### Day 6[Video Link]()
+
+
+
 
