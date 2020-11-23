@@ -61,5 +61,10 @@ _____
 ### Day 6[Video Link]()
 
 
+### Day 7[]()
+- migrations
+- admin part
+- urls creation in app
+- Bootstrap
 
 
