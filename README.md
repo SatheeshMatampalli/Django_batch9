@@ -61,12 +61,12 @@ _____
 ### Day 6[Video Link]()
 
 
-### Day 7[]()
+### Day 7[video link]()
 - migrations
 - admin part
 - urls creation in app
 - Bootstrap
-### DAY8[]()
+### DAY8[video link]()
 - navbar
 - ORM
 
