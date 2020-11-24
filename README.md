@@ -58,10 +58,10 @@ _____
 - APPs Creation
 
  _____
-### Day 6[Video Link]()
+### Day 6[Video Link](https://transcripts.gotomeeting.com/#/s/95df815c28d38350611a1d21c1925894559f368de4e08e6b149bfabec69dce16)
 
 
-### Day 7[video link]()
+### Day 7[video link](https://transcripts.gotomeeting.com/#/s/a067a162c8ed1e19010d9b9136d4a3634be9620aaa45d47d889552d6eb0044d2)
 - migrations
 - admin part
 - urls creation in app
