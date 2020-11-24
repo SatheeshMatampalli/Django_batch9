@@ -66,5 +66,7 @@ _____
 - admin part
 - urls creation in app
 - Bootstrap
-
+### DAY8[]()
+- navbar
+- ORM
 
