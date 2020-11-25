@@ -66,7 +66,7 @@ _____
 - admin part
 - urls creation in app
 - Bootstrap
-### DAY8[video link]()
+### DAY8[video link](https://transcripts.gotomeeting.com/#/s/32d48b6d23a7ab2b9b8aa073d631599b17ad035ffc48cf22d8a0ccbe3d2f26a0)
 - navbar
 - ORM
 
