@@ -71,5 +71,5 @@ _____
 - navbar
 - ORM
 
-### Day9[Video]()
+### Day9[Video](https://transcripts.gotomeeting.com/#/s/d4f71ae51e153b8bddefea7fea49813045e8383c36e4660fd63dff729b758ad7)
 - Crud operations using Forms
