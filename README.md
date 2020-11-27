@@ -73,5 +73,5 @@ _____
 
 ### Day9[Video](https://transcripts.gotomeeting.com/#/s/d4f71ae51e153b8bddefea7fea49813045e8383c36e4660fd63dff729b758ad7)
 - Crud operations using Forms[day9 project](https://drive.google.com/drive/folders/1Lma8svi0XY30_Wa9No7jUFYyQdJO2mZ_?usp=sharing)
-### day10[video]()
+### day10[video](https://transcripts.gotomeeting.com/#/s/8c552ea19c35dee867958537ab6bf12329141ddf23ef1af46249fdd35149c8d4)
 - forms based crud operations
