@@ -1,3 +1,16 @@
+Django Training for Students's Meeting
+
+Please join my meeting from your computer, tablet or smartphone.
+https://www.gotomeet.me/viswanth1914
+
+You can also dial in using your phone.
+United States: +1 (408) 650-3123
+
+# Access Code: 904-896-981
+
+
+New to GoToMeeting? Get the app now and be ready when your first meeting starts: https://global.gotomeeting.com/install/904896981
+
 # Django_batch9
 # Updated video Links they may expired at anytime if needed download ASAP
 
