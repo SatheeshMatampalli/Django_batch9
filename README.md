@@ -89,3 +89,5 @@ _____
 ### day10[video](https://transcripts.gotomeeting.com/#/s/8c552ea19c35dee867958537ab6bf12329141ddf23ef1af46249fdd35149c8d4)
 - forms based crud operations
 ### Day12[videolink](https://transcripts.gotomeeting.com/#/s/af2f2102657dc9a250765800a7a33075b7f141ea25805fc7932598f22e8e4fd2)
+- Form Validations and MYSQL CONNECTIONS 
+- XAMPP Server Instalation
