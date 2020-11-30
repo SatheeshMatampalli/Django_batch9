@@ -91,3 +91,7 @@ _____
 ### Day12[videolink](https://transcripts.gotomeeting.com/#/s/af2f2102657dc9a250765800a7a33075b7f141ea25805fc7932598f22e8e4fd2)
 - Form Validations and MYSQL CONNECTIONS 
 - XAMPP Server Instalation
+
+### Day 13(30-11-2020)
+- Image Uploading
+### VideoLink[Click Herr](https://transcripts.gotomeeting.com/#/s/e6f3320054d230dd7b355856e3131bb474f37cb0823df07262d26782d75cef82)
