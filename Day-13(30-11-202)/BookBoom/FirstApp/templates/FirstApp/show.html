@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Show Data</title>
+</head>
+<body>
+	{% for i in data %}
+	<h1>{{ i.BookName }}</h1>
+	<h1>{{ i.BookId }}</h1>
+	<h1>{{ i.BookAuthor }}</h1>
+	<img src="/static/images/{{ i.BookImage }}">
+
+	{% endfor %}
+</body>
+</html>
