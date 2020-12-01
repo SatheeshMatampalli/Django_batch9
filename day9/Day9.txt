@@ -1,0 +1,13 @@
+Good Evening to all(Day9):
+==========================
+
+* Model creation
+
+* Basic Crud operations with HTML
+	*insert
+	*read
+	*update
+	*delete
+* forms based Crud operations
+
+

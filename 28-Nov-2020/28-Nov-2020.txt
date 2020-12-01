@@ -1,0 +1,28 @@
+Today's Agenda:
+===============
+- Form Validation
+- Xampp Server installation
+- Mysql DB connections
+
+- Form Validation:
+=================
+Form: Forms are a collection of HTML elements to take input from the user.it simply the give any kind of instruction.
+- Google search enginee
+
+mainly differnts methods to transmit data over HTTP.
+2 Methods are : GET and POST
+
+
+Xampp Server Installation:
+=========================
+- Download XAMPP server(https://www.apachefriends.org/download.html)
+- Installation completed 
+- Open xampp Server now start Apache and MYSQL
+
+
+
+
+
+
+
+
