@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Change Page</title>
+</head>
+<body>
+	<center>
+		<form action="{% url 'change' %}" method="POST">
+			{% csrf_token %}
+			Old Password:<br>
+			<input type="text" name="oldpwd"><br><br>
+			New Passsword:<br>
+			<input type="text" name="newpwd"><br><br>
+			Confirm Assword:<br>
+			<input type="text" name="conpwd"><br><br>
+			<input type="submit" value="Update">
+
+		</form>
+
+	</center>
+
+</body>
+</html>

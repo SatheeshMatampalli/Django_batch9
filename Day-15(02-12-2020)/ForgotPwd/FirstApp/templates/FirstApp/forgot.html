@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<center>
+		<form action="{% url 'forgot' %}" method="POST">
+			{% csrf_token %}
+			Email:<br><input type="email" name="email" placeholder="Enter your registered Mail ID"><br><br>
+			<input type="submit" name="send">
+		</form>
+
+	</center>
+
+</body>
+</html>

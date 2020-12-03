@@ -1,4 +1,4 @@
-"""BookBoom URL Configuration
+"""ForgotPwd URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.0/topics/http/urls/
@@ -19,9 +19,8 @@ from FirstApp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('register/',views.register, name='register'),
-    path('show/',views.show,name='show'),
-    path('message/',views.message,name='message'),
-    
-    
+    path('register/',views.register,name='register'),
+    path('login/',views.login,name='login'),
+    path('forgot/',views.forgot,name='forgot'),
+    path('change/',views.change,name='change'),
 ]

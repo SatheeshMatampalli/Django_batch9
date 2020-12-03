@@ -9,14 +9,22 @@
 <body>
 	<div class="container">
 		<div class="card">
+			{% if messages %}
+			{% for i in messages %}
+				<div class="alert alert-{{ i.tags }}">{{ i }}</div>
+
+			{% endfor %}
+			{% endif %}
 			<div class="card-header bg-warning">
 				<h1>Books Registeration Page</h1>
 			</div>
 			<div class="card-body">
 				<form action="{% url 'register' %}" method="POST" enctype="multipart/form-data">
 				{% csrf_token %}
-				{{ form.as_p }}
-				
+				BookName:<br>{{ form.BookName }}<br>
+				BookId:<br>{{ form.BookId }}<br>
+				BookAuthor:<br>{{ form.BookAuthor }}<br>
+				BookImage:<br>{{ form.BookImage }}<br>		
 			</div>
 			<div class="card-footer bg-primary">
 				<input type="submit" value="submit">
