@@ -95,3 +95,15 @@ _____
 ### Day 13(30-11-2020)
 - Image Uploading
 ### VideoLink[Click Herr](https://transcripts.gotomeeting.com/#/s/e6f3320054d230dd7b355856e3131bb474f37cb0823df07262d26782d75cef82)
+
+
+### Day 14 (01-Dec-2020)
+### VideoLink[Click Herr](https://transcripts.gotomeeting.com/#/s/d624a3287345956a6d9091572cda22a7fa4f124805a20111ef5fcae744b1b7ed)
+
+### Day 15 (02-Dec-2020)
+### VideoLink[Click Herr](https://transcripts.gotomeeting.com/#/s/8af9732720f73eb1d0e760d1f5a4c528606fa784cca5b9eca6f3c5ab866acb6c)
+
+### Day 16 (03-Dec-2020)
+### VideoLink[Click Herr](https://transcripts.gotomeeting.com/#/s/2d506c24aad92fdf4051553ea303e156eaf88ba466447215db19f485cdae92f5)
+
+### Day 17 ((04-Dec-2020)
